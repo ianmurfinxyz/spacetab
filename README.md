@@ -17,10 +17,10 @@ Be kind and keep tabbing.
 
 	Converts space indents to tab indents in FILE.
 
-		I once was blind but now I see.
-		Tabs are all that must be!
-		To the world of space sinners I donate thee.
-		A script made by, a new tab devotee.
+	I once was blind but now I see.
+	Tabs are all that must be!
+	To the world of space sinners I donate to thee.
+	A script of forgiveness, by a tab devotee.
 
 	OPTIONS:
 		-c	Number of space to compress into a single tab.
