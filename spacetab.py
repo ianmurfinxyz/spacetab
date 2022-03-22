@@ -69,7 +69,7 @@ for filename in filenames:
 			else: break
 
 		surplus_space_count = space_count % 2
-		tab_count = int(math.floor(space_count / 2))
+		tab_count = int(math.floor(space_count / tab_width))
 		new_line = ['\t' for i in range(tab_count)]
 		new_line += [' ' for i in range(surplus_space_count)]
 
